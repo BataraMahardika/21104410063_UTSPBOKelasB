@@ -30,4 +30,8 @@ public class Dangdut {
     public void cetakLabel(){
         System.out.println( this.penyanyi + " <=> " + this.lagu);
     }
+
+    void song(String via_Vallen, String kopi_Dangdut) {
+        
+    }
 }
