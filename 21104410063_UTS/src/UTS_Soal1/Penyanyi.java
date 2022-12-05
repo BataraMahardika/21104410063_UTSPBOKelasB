@@ -23,7 +23,7 @@ public class Penyanyi extends Pop {
         
         String penyanyi = "Joko Chandra";
         penyanyi = dangdut.penyanyi;
-        //dangdut.song("Via Vallen", "Kopi Dangdut");
+        dangdut.song("Via Vallen", "Kopi Dangdut");
         dangdut.cetakLabel();
 
     }
